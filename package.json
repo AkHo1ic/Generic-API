@@ -1,0 +1,43 @@
+{
+  "name": "workspace",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "binary-to-string": "^0.1.2",
+    "binstring": "^0.2.1",
+    "body-parser": "~1.13.2",
+    "cat-ascii-faces": "^2.0.0",
+    "check-proxy": "0.0.3",
+    "cookie-parser": "~1.3.5",
+    "cool-ascii-faces": "^1.3.4",
+    "cows": "^0.2.3",
+    "creditcard-generator": "0.0.7",
+    "debug": "~2.2.0",
+    "dns": "^0.2.2",
+    "emo": "^0.3.0",
+    "emoticon-data": "^0.2.0",
+    "express": "~4.13.1",
+    "flip-text": "^1.1.0",
+    "fs": "0.0.2",
+    "ipaddr.js": "^1.1.0",
+    "jade": "~1.11.0",
+    "l33tsp34k": "^1.0.5",
+    "lodash": "^4.6.1",
+    "mlp-name-generator": "^1.2.0",
+    "morgan": "~1.6.1",
+    "net-ping": "^1.2.0",
+    "node-whois": "^2.1.3",
+    "pirate-speak": "^1.0.0",
+    "randomstring": "^1.1.4",
+    "serve-favicon": "~2.3.0",
+    "string-to-binary": "^0.1.2",
+    "text-stats": "0.0.3",
+    "timeunit": "^1.1.1",
+    "traceroute": "^1.0.0",
+    "underscore": "^1.8.3",
+    "validator": "^5.1.0"
+  }
+}

@@ -1,0 +1,6 @@
+node_modules/**
+.c9/**
+config.js
+todo.txt
+toCam.sh
+toKyle.sh
